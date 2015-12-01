@@ -1,0 +1,2 @@
+# Galga
+Galga extensiométrica
